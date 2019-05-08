@@ -1,0 +1,101 @@
+{
+	"IIFL": [{
+		"name": "SENSEX",
+		"value": 39275.67
+	},
+	{
+		"name": "NIFTY",
+		"value": 11787.67
+	},
+	{
+		"name": "BANKNIFTY",
+		"value": 30531.67
+	},
+	{
+		"name": "GOLD",
+		"value": 31234.67
+	}
+],
+	"catagory": [{
+		"name": "SENSEX",
+		"value": [{
+			"name": "ASIANPAINT",
+			"value": 3975.67
+		},
+		{
+			"name": "AXISBANK",
+			"value": 11787.67
+		},
+		{
+			"name": "BAJAJ-AUTO",
+			"value": 3531.67
+		},
+		{
+			"name": "COALINDIA",
+			"value": 1234.67
+		}
+	]
+	},
+	{
+		"name": "NIFTY",
+		"value": [{
+			"name": "HCLTECH",
+			"value": 275.67
+		},
+		{
+			"name": "HDFC",
+			"value": 1177.67
+		},
+		{
+			"name": "INDIANBANK",
+			"value": 531.67
+		},
+		{
+			"name": "AIRTEL",
+			"value": 314.67
+		}
+	]
+	},
+	{
+		"name": "BANKNIFTY",
+		"value": [{
+			"name": "SBI",
+			"value": 9275.67
+		},
+		{
+			"name": "KOTAK",
+			"value": 787.67
+		},
+		{
+			"name": "RBL",
+			"value": 331.67
+		},
+		{
+			"name": "INDIABULLS",
+			"value": 234.67
+		}
+	]
+	},
+	{
+		"name": "GOLD",
+		"value": [{
+			"name": "MUTHOOT",
+			"value": 275.67
+		},
+		{
+			"name": "JOYALUKAS",
+			"value": 787.67
+		},
+		{
+			"name": "KALYAN",
+			"value": 331.67
+		},
+		{
+			"name": "MUNAPPURAM",
+			"value": 234.67
+		}
+	]
+	}
+
+]
+}
